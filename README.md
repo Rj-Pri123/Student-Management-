@@ -7,6 +7,8 @@ View All Students: Display all stored student records in an organized table form
 Update Records: Modify the details of existing student entries.
 Delete Records: Remove student entries that are no longer required.
 Simple GUI: Built with Tkinter, the interface is user-friendly and intuitive.
+
+
 🚀 How to Run the Project
 Clone the Repository
 Download or clone this project to your local machine:
